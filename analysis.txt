@@ -64,6 +64,6 @@ We saw that long-term debt is the topmost category when it comes to the average 
 - `international_debt_analysis.sql` – contains all SQL queries
 
 ## Author
-Your Name
+Nalla Sai Deepak
 
 
